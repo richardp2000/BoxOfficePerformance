@@ -2,8 +2,6 @@
 
 ------------------------------------------------------------------------
 
-Rename quick test in the README 
-
 This repository contains the research project I completed for my Master's Thesis in Marketing.
 
 The thesis is titled:
